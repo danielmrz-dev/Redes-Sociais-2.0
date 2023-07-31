@@ -41,6 +41,7 @@ section#social {
 }
 
 section#social img {
+    background-color: white;
     height: 6vh;
     margin: 10px;
     border-radius: 50%;
